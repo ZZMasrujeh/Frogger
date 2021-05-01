@@ -1,0 +1,15 @@
+Images:
+    frogger logo:
+    https://upload.wikimedia.org/wikipedia/commons/8/8c/Frogger-logo.svg
+
+    arcade room:
+    http://pdbuchan.com/arcade/mamewah.html
+
+    other images:
+    cropped from a screenshot, of the game from https://www.youtube.com/watch?v=WNrz9_Fe-Us
+
+Sounds:
+    http://www.classicgaming.cc/classics/frogger/sounds
+
+    dp_frogger.mp3
+    http://www.digitpress.com/dpsoundz/mp3/dp_frogger.mp3
